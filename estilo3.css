@@ -1,0 +1,39 @@
+			body{
+				text-align: center;
+				font-size: 12px;
+			}
+			table, tr, td{
+				
+				border: 1px solid black;
+				font-size: 14px;				
+			}
+			.dias{
+				color:blue;	
+				background-color: lightGray;
+			}
+			.ti1{
+				background-color: #FF0000;
+			}
+			.tic2{
+				background-color: rgb(0,255,0);
+			}
+			.tecno3{
+				background-color: lightBlue;
+			}
+			.tecno1{
+				background-color: yellow;
+			}
+			.pi{
+				background-color: pink;
+			}
+			.guardia{
+				background-color: violet;
+			}
+			.recreo{
+				background-color: white;
+				font-size: 10px;
+			}
+		    .tutoria{
+				background-color: orange;
+			}
+			
